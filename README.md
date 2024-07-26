@@ -3,7 +3,7 @@
 <img align="right" alt="me" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=banovshaa&label=Profile%20views&color=0e75b6&style=flat" alt="banovshaa" /> </p>
 
-- 💬 Ask me about **Javascript, C#**
+- 💬 Ask me about **Javascript, React.js**
 
 - 📫 How to reach me **abdiyeva.banovsha@gmail.com**
 
