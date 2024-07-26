@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/banovsha-abdiyeva-23038b24a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="banovsha-abdiyeva-23038b24a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/banovsha-abdiyeva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="banovsha-abdiyeva-23038b24a" height="30" width="40" /></a>
 <a href="https://fb.com/benovse.adiyeva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="benovse.adiyeva" height="30" width="40" /></a>
 <a href="https://instagram.com/ll_abdieva_ll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ll_abdieva_ll" height="30" width="40" /></a>
 </p>
