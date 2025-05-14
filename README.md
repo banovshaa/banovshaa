@@ -6,6 +6,7 @@
 - 💬 Ask me about **Javascript, React.js**
 
 - 📫 How to reach me **abdiyeva.banovsha@gmail.com**
+- 🌐 My portfolio **https://ba-dev.vercel.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
